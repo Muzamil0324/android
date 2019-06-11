@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960215325590",
+    "firebase_url": "https://awesom-poppat.firebaseio.com",
+    "project_id": "awesom-poppat",
+    "storage_bucket": "awesom-poppat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960215325590:android:c3b96f95df5beac6",
+        "android_client_info": {
+          "package_name": "com.dxine.awesom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960215325590-4elkos9r0p3n83nvd8kaaurbeshvhl9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dxine.awesom",
+            "certificate_hash": "6ee5cf3aafebe08119f7ecccd8fccb03eafb5095"
+          }
+        },
+        {
+          "client_id": "960215325590-bepvrnpa3tkaf6uppli0sg2gvov925du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_IxC8Yv8gX0MOndAjnhhtn_fjEnHUL4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960215325590-bepvrnpa3tkaf6uppli0sg2gvov925du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
